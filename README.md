@@ -42,7 +42,7 @@ npm run dev
 ```
 
 ## 📖 Usage
-
+0. use "user@gmail.com" and "User1234"for Login
 1. **Add Elements**: Drag components from the sidebar onto your form canvas
 2. **Configure Properties**: Select any element to edit its properties in the sidebar
 3. **Preview**: Toggle to preview mode to test your form's functionality
