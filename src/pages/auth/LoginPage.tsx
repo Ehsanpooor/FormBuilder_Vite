@@ -43,6 +43,7 @@ export default function LoginPage() {
           <CardHeader className="text-center" data-testid="login-header">
             <CardTitle className="text-3xl" data-testid="login-title">Login</CardTitle>
             <CardDescription data-testid="login-subtitle">Sign in to your account</CardDescription>
+            <CardDescription data-testid="login-subtitle">'user@example.com', 'User1234'</CardDescription>
           </CardHeader>
 
           <CardContent data-testid="login-form">

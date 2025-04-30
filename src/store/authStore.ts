@@ -32,7 +32,7 @@ export const useAuthStore = create<AuthState>()(
           set({ isLoading: true, error: null })
           
           // Check for test credentials
-          if (email === 'user@gmail.com' && password === 'User1234') {
+          if (email === 'user@example.com' && password === 'User1234') {
             set({
               user: {
                 id: '1',
